@@ -1,4 +1,3 @@
-
 # vpc
 resource "aws_vpc" "vpctask2" {
   cidr_block = var.aws_vpc
